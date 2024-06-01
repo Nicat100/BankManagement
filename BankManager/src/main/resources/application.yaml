@@ -10,5 +10,5 @@ spring:
     url: jdbc:mysql://localhost:3306/bank_manager
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: N1c@t_25192744
+    password: root
 
